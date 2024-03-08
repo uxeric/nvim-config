@@ -1,0 +1,2 @@
+# uxeric nvim config
+
